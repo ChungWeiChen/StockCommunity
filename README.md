@@ -29,8 +29,8 @@
 
 -  **[backend/](./StockCommunity-Backend)**：後端核心 API 服務。
     *   *詳細資料庫設定與環境變數請參閱：[後端技術文件](./StockCommunity-Backend/README.md)*
--  **[frontend/](./StockCommunity-Fackend)**：前端使用者網頁介面。
-    *   *詳細開發設定請參閱：[前端技術文件](./StockCommunity-Fackend/README.md)*
+-  **[frontend/](./StockCommunity-Frontend)**：前端使用者網頁介面。
+    *   *詳細開發設定請參閱：[前端技術文件](./StockCommunity-Frontend/README.md)*
 
 ## 模組總覽
 
